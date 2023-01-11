@@ -1,3 +1,5 @@
+//Ryan Lei, Section 86 Period 7/8, Subchapter 2//
+
 var fs = require("fs");
 
 fs.readFile('input.txt', function (err, data)
